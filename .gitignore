@@ -262,6 +262,6 @@ poetry.toml
 pyrightconfig.json
 
 imdb_data/
-data/
+results/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all
